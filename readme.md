@@ -1,6 +1,6 @@
 DATABASE CONNECTION
 ===================
-Server: DESKTOP-5KSKK2V\SQLEXPRESS
+Server: localhost\SQLEXPRESS (configure for your environment)
 Database: DisasterResponseMIS
 Authentication: Windows Authentication (Integrated Security)
 
